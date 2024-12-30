@@ -7,3 +7,4 @@ Please refer to the REFERENCE DOCUMENTATION of my REACTFILE Repository READ.me i
 ### Source: https://github.com/KLiang0712/REACTFILE0712
 
 # Example Output
+![Store-10 59 11PM](https://github.com/user-attachments/assets/1ec518e5-ade1-444e-8ecf-25920a8c1bd5)
